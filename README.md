@@ -1,5 +1,5 @@
 # ich-tf2bd-faq
-A series of Frequently Asked Questions about the Team Fortress 2 Bot Detector
+A series of Frequently Asked Questions about the Team Fortress 2 Bot Detector made by someone unassociated with any version of it
 
 ### What is the Team Fortress 2 Bot Detector?
 
