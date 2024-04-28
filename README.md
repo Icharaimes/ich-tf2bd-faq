@@ -3,7 +3,7 @@ A series of Frequently Asked Questions about the Team Fortress 2 Bot Detector ma
 
 ### What is the Team Fortress 2 Bot Detector?
 
-The Team Fortress 2 Bot Detector is a program that is used to detect bots and cheaters in Team Fortress 2. It was originally made by a group of people lead by Pazer. The original program has not been worked on in several years and [its repository](https://github.com/PazerOP/tf2_bot_detector) has since been archived. The version that I use is a fork made by sleepy. You can find it [here.](https://github.com/surepy/tf2_bot_detector)
+The Team Fortress 2 Bot Detector is a program that is used to detect bots and cheaters in Team Fortress 2. It was originally made by a group of people lead by Pazer. The original program has not been worked on in several years and [its repository](https://github.com/PazerOP/tf2_bot_detector) has since been archived. With Team Fortress 2 updating to 64-bit architecture, this version no longer works. The version that I use is a fork made by sleepy. You can find it [here.](https://github.com/surepy/tf2_bot_detector)
 
 ### How does it work?
 
