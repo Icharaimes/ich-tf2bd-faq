@@ -38,9 +38,17 @@ While that is possible, the lists above are lists that I trust to exercise great
 
 I would certainly recommend it, though if you are going to use it I implore you to exercise great caution in marking people as cheaters. If you are unable to do so, I would recommend either not marking people at all and sticking to lists made by those you feel are trustworthy or simply not using the program at all.
 
+### You were calling someone out for cheating but I spectated them and they seemed legit. What gives?
+
+Some cheaters toggle off when they are called out. Cheaters can also set their cheats to automatically toggle off when they're being spectated so it's harder to catch them. If someone is being accused of cheating but you don't see anything when spectating them, pay close attention to them when you're alive. Don't announce that you're doing this though, or they'll just toggle off for a bit to avert suspicion. Otherwise, read the answer to the question above regarding the lists being curated and the answers to the questions below regarding people claiming they aren't cheating and people claiming they are former cheaters.
+
 ### Your program tried to get me kicked even though I wasn't cheating! Why?
 
 As I said, it is possible that there is an error in one of the lists, be it my own or someone else's. My list doesn't have many human cheaters marked, and with how cautious I am in marking people as cheaters it is highly unlikely that I falsely marked you as such. If you are marked on another list, I have no control over that. I can't get you removed from someone else's list, and I won't remove you from mine. If I'm calling you out as a cheater, feel free to ask which list you're on. It probably won't do much for you though, as the curators of the above lists are about as likely to remove you as I am.
+
+### I used to cheat but don't anymore. How about removing me from the list?
+
+If you get banned in a game for cheating, then make a new account and play on it for 6 months without cheating, then contact the devs saying "I've been playing legit on this new account for 6 months. I don't cheat anymore. Can I have my old account back?", you're not going to get the account back. In fact, I'd wager there's a decent chance your new account will be banned for ban evasion. If you've been caught cheating in the past then I have no reason to believe you've stopped.
 
 ### I have a question that isn't listed here!
 
