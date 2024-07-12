@@ -1,6 +1,22 @@
 # ich-tf2bd-faq
 A series of Frequently Asked Questions about the Team Fortress 2 Bot Detector made by someone unassociated with any version of it
 
+## Post-ban-wave Rapid-fire Q&A
+
+### If the bots are gone, why use this?
+
+Bots may be gone for now, but they could return. Human cheaters also still exist.
+
+### You seemed to be calling someone out with a non-automated message. I thought this did that for you?
+
+With the bots being gone, people are even less likely to kick human cheaters and will instead try to kick you for spamming chat/votes. That combined with the fact that I've grown skeptical of whether some in the Trusted list are actually cheating has lead me to disable auto-vote kick and auto-chat callout.
+
+### If you aren't using the automated features then why even bother with TF2BD?
+
+It's still a good way to get a heads up of who you should be keeping an eye on.
+
+## Original, more detailed FAQ
+
 ### What is the Team Fortress 2 Bot Detector?
 
 The Team Fortress 2 Bot Detector is a program that is used to detect bots and cheaters in Team Fortress 2. It was originally made by a group of people lead by Pazer. The original program has not been worked on in several years and [its repository](https://github.com/PazerOP/tf2_bot_detector) has since been archived. With Team Fortress 2 updating to 64-bit architecture, this version no longer works. The version that I use is a fork made by sleepy. You can find it [here.](https://github.com/surepy/tf2_bot_detector)
@@ -32,9 +48,9 @@ You can find the biglist and the trusted list [here.](https://github.com/PazerOP
 
 ### If these lists are curated by people, couldn't there be people that get marked as cheaters when they aren't cheating?
 
-While that is possible, the lists above are lists that I trust to exercise great caution in marking someone as a cheater. I treat marking people for my own list the same way. If I don't see what I consider to be definitive, beyond-reasonable-doubt proof of someone cheating, I won't mark them as such and I trust that the lists above adhere to that same principle. Trust is a big part of using this program and of using different lists.
+It is certainly a possibility. In fact, I'm fairly certain there are people marked as cheaters in the Trusted list that aren't actually cheating. However, it still serves as a good indicator that someone is suspicious and should be watched closely. Sleepy's list even gives you the reason someone was marked so you know exactly what to look for. As for my own list, I won't mark someone as cheating if I don't see what I consider to be definitive, beyond-reasonable-doubt proof. Trust is a big part of using this program and of using different lists.
 
-### Alright, this program seems pretty good. Should I use it?
+### This program seems pretty good. Should I use it?
 
 I would certainly recommend it, though if you are going to use it I implore you to exercise great caution in marking people as cheaters. If you are unable to do so, I would recommend either not marking people at all and sticking to lists made by those you feel are trustworthy or simply not using the program at all.
 
