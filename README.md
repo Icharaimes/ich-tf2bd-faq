@@ -43,8 +43,9 @@ Along with my own list (which I will not be publishing) and the official list (w
 * playerlist.sleepy-bots-merged
 * playerlist.sleepy-no-proof
 * playerlist.trusted
+* playerlist.vorobey-hackerpolice
 
-You can find the biglist and the trusted list [here.](https://github.com/PazerOP/tf2_bot_detector/wiki/Customization) The rest can be found [here.](https://github.com/surepy/tf2db-sleepy-list)
+You can find the biglist and the trusted list [here.](https://github.com/PazerOP/tf2_bot_detector/wiki/Customization) You can find the hackerpolice list [here.](https://github.com/Nocrex/Tom) The rest can be found [here.](https://github.com/surepy/tf2db-sleepy-list)
 
 ### If these lists are curated by people, couldn't there be people that get marked as cheaters when they aren't cheating?
 
